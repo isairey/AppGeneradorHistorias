@@ -43,27 +43,6 @@ Ideal para:
 - 🎮 Desarrolladores de videojuegos
 - 📖 Lectores y aficionados a la literatura
 
----
-
-# 📸 Preview
-
-## 🏠 Página Principal
-
-<div align="center">
-
-<img src="screenshots/home.png" width="900"/>
-
-</div>
-
----
-
-## ✍️ Generador de Historias
-
-<div align="center">
-
-<img src="screenshots/generator.png" width="900"/>
-
-</div>
 
 ---
 
