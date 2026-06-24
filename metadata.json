@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Historias con Portada HD",
+  "description": "Una aplicación que genera historias cortas y una portada de libro en alta definición basada en la idea del usuario, utilizando la API de Gemini.",
+  "requestFramePermissions": []
+}
