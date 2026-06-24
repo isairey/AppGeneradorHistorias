@@ -44,25 +44,6 @@ Ideal para:
 - 📖 Lectores y aficionados a la literatura
 
 
----
-
-## 📖 Historia Generada
-
-<div align="center">
-
-<img src="screenshots/story.png" width="900"/>
-
-</div>
-
----
-
-## 🎨 Generación de Portadas IA
-
-<div align="center">
-
-<img src="screenshots/cover.png" width="900"/>
-
-</div>
 
 ---
 
