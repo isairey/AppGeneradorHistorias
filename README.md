@@ -322,8 +322,7 @@ git push origin feature/nueva-funcion
 
 ---
 
-# 👨‍💻 Fundador
-
+# 👨‍💻 Desarrollador
 <div align="center">
 
 <img width="140" src="https://github.com/isairey.png" />
