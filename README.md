@@ -171,7 +171,7 @@ Ideal para:
 # 📂 Estructura del Proyecto
 
 ```bash
-StoryForgeAI/
+AppGeneradorHistorias/
 │
 ├── src/
 │   ├── components/
@@ -201,7 +201,7 @@ StoryForgeAI/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/storyforge-ai
+git clone https://github.com/isairey/AppGeneradorHistorias
 ```
 
 ---
